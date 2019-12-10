@@ -28,8 +28,34 @@ namespace RiotAPIdemo
 
         [JsonProperty("summonerLevel")]
         public long SummonerLevel { get; set; }
-
-
-
     }
+
+    public class Champion-Mastery
+    {
+	[JsonProperty("chestGranted")]
+	public Boolean chestGranted { get; set; }
+
+	[JsonProperty("championLevel")]
+	public int championLevel { get; set; }
+
+	[JsonProperty("championPoints")]
+	public int championPoints { get; set; }
+
+	[JsonProperty("championId")]
+	public long championId { get; set; }
+
+	[JsonProperty("championPointsUntilNextLevel")]
+	public long championPointsUntilNextLevel { get; set; }
+
+	[JsonProperty("lastPlayTime")]
+	public long lastPlayTime { get; set; }	
+
+	[JsonProperty("tokensEarned")]
+	public int tokensEarned { get; set; }
+
+	[JsonProperty("championPointsSinceLastLevel")]
+	public long championPointsSinceLastLevel { get; set; }
+
+	[JsonProperty("summonerId")]
+	public string summonerId { get; set; }
 }

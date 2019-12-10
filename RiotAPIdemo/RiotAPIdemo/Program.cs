@@ -13,7 +13,9 @@ namespace RiotAPIdemo
             SummonerV4 summonerApi = new SummonerV4();
             Console.WriteLine("Enter a Leauge of Legends username: ");
             userinput = Console.ReadLine();
-            var response = summonerApi.GetSummonerByName($"{userinput}");
+	    Console.WriteLine("Enter champion Id");
+	    string championId = Console.ReadLine();
+            var response = getChampionMastery($"{userinput}", $"{championId}");
             Console.WriteLine($"------From Riot's Servers-------\nName: {response.Name} \nLevel: {response.SummonerLevel}");
         }
     }
