@@ -1,0 +1,14 @@
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\RiotAPIdemo.exe
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\RiotAPIdemo.deps.json
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\RiotAPIdemo.runtimeconfig.json
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\RiotAPIdemo.runtimeconfig.dev.json
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\RiotAPIdemo.dll
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\RiotAPIdemo.pdb
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\obj\Debug\netcoreapp3.0\RiotAPIdemo.csprojAssemblyReference.cache
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\obj\Debug\netcoreapp3.0\RiotAPIdemo.AssemblyInfoInputs.cache
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\obj\Debug\netcoreapp3.0\RiotAPIdemo.AssemblyInfo.cs
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\obj\Debug\netcoreapp3.0\RiotAPIdemo.dll
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\obj\Debug\netcoreapp3.0\RiotAPIdemo.pdb
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\obj\Debug\netcoreapp3.0\RiotAPIdemo.csproj.CopyComplete
+C:\Users\carlt\source\repos\RiotAPIdemo\RiotAPIdemo\bin\Debug\netcoreapp3.0\Camille.dll
